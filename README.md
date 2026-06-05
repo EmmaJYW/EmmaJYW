@@ -17,7 +17,7 @@ Master's student in **Quantitative Methods (Data Science track) at Columbia Univ
 
 ### Featured projects
 
-**[CareBridge — ER Companion](https://github.com/EmmaJYW/er-companion-AI-Healthcare-Hackathon)** · *Best Hardware Prize, Cornell AI Health Hackathon (30+ teams)*
+**[CareBridge — ER Companion]()** · *Best Hardware Prize, Cornell AI Health Hackathon (30+ teams)*
 A multilingual, agentic ER companion that uses real-time patient context to reduce procedural confusion and support clinical triage across language barriers. *My role:* product framing and the clinician–patient communication workflow.
 
 **[AI Healthcare Compliance Agent](https://github.com/EmmaJYW/empire-hacks)** · *Empire Hacks*
@@ -41,4 +41,4 @@ An agent prototype exploring how AI systems can stay compliant in regulated heal
 
 ### Reach me
 
-[LinkedIn](https://www.linkedin.com/in/emma-wang3) · emmawangvvv@gmail.com
+[LinkedIn](https://www.linkedin.com/in/emma-wang3) · [emmawangvvv@gmail.com](mailto:emmawangvvv@gmail.com)
